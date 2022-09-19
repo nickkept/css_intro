@@ -1,0 +1,48 @@
+
+/* -Selettore per tag  */
+/* p {...}  */
+/* h1 {...}  */
+
+/* - Selettore per class  */
+/* .text-red {...}  */
+/* .list-item {...}  */
+/* .nome-classe {...}  */
+
+/* - Selettore per ID  */
+/* #nomed-id {...}  */
+
+body {
+    font-family: "Arial" ;
+}
+
+header {
+    background-color: #7de0cf67;
+    text-align: center;
+    color: #554f4f;
+}
+
+footer{
+    background-image: url("../img/bg.png");
+    text-align: center;
+    height: 200px;
+    background-size: cover;
+    background-position: center;
+} 
+
+
+#user-img {
+    width: 150px ;
+}
+
+.section-title { color: rgba(76, 76, 155, 0.667);
+    text-decoration: underline;
+
+}
+
+.section-subtitle {
+    font-style: italic;
+    
+}
+.text-red {
+    color: red;
+}
